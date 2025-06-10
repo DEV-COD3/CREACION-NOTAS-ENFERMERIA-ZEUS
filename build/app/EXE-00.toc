@@ -61,6 +61,10 @@
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
+  ('pyi_rth_localhost_fletd',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_cli\\__pyinstaller\\rthooks\\pyi_rth_localhost_fletd.py',
+   'PYSOURCE'),
   ('pyi_rth_pkgutil',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
@@ -68,10 +72,6 @@
   ('pyi_rth_multiprocessing',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
-   'PYSOURCE'),
-  ('pyi_rth_localhost_fletd',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_cli\\__pyinstaller\\rthooks\\pyi_rth_localhost_fletd.py',
    'PYSOURCE'),
   ('pyi_rth_setuptools',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
@@ -82,329 +82,329 @@
    'ZEUS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
    'PYSOURCE'),
   ('app', 'D:\\PROYECTS\\PYTHON\\NOTAS ZEUS\\app.py', 'PYSOURCE'),
-  ('flet_desktop\\app\\flet\\window_to_front_plugin.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-environment-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\window_to_front_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-timezone-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-timezone-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\vcruntime140.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\media_kit_native_event_loop.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_native_event_loop.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-util-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-util-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\ucrtbased.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\ucrtbased.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\vccorlib140d.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vccorlib140d.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\libGLESv2.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libGLESv2.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-time-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-time-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\record_windows_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\record_windows_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\vcruntime140d.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140d.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\msvcp140_atomic_wait.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_atomic_wait.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-filesystem-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-filesystem-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\msvcp140.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-locale-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-profile-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-string-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-string-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-datetime-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\geolocator_windows_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\geolocator_windows_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\screen_retriever_windows_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\screen_retriever_windows_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\flet.exe',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\flet.exe',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-heap-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\zlib.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\zlib.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\vccorlib140.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vccorlib140.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-interlocked-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-interlocked-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\msvcp140_1.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_1.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\media_kit_video_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_video_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\ucrtbase.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\ucrtbase.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\flutter_windows.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\flutter_windows.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\concrt140.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\concrt140.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-convert-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-convert-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-string-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-math-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-math-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\msvcp140_codecvt_ids.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_codecvt_ids.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\msvcp140_2.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_2.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\screen_brightness_windows_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\screen_brightness_windows_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\audioplayers_windows_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\audioplayers_windows_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-conio-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-file-l2-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-process-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-console-l1-2-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-console-l1-2-0.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
   ('flet_desktop\\app\\flet\\api-ms-win-crt-private-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-private-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-console-l1-1-0.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-core-string-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-console-l1-1-0.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-string-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-utility-l1-1-0.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-core-profile-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-utility-l1-1-0.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-profile-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-namedpipe-l1-1-0.dll',
+  ('flet_desktop\\app\\flet\\vccorlib140.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-namedpipe-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-debug-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-debug-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\permission_handler_windows_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\permission_handler_windows_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\libEGL.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libEGL.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-heap-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-heap-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\libc++.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libc++.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-downlevel-kernel32-l2-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-downlevel-kernel32-l2-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-stdio-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-stdio-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-2-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-2-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-handle-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-file-l1-2-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\d3dcompiler_47.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\d3dcompiler_47.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\window_manager_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\window_manager_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-memory-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-eventing-provider-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-eventing-provider-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\rive_common_plugin.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\rive_common_plugin.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-environment-l1-1-0.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-environment-l1-1-0.dll',
-   'BINARY'),
-  ('flet_desktop\\app\\flet\\vcruntime140_1d.dll',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140_1d.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vccorlib140.dll',
    'BINARY'),
   ('flet_desktop\\app\\flet\\api-ms-win-core-libraryloader-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-libraryloader-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\media_kit_libs_windows_video_plugin.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-core-rtlsupport-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_libs_windows_video_plugin.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-rtlsupport-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\vk_swiftshader.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-core-util-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vk_swiftshader.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\url_launcher_windows_plugin.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\url_launcher_windows_plugin.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-crt-multibyte-l1-1-0.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-conio-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-conio-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\vulkan-1.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-core-debug-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vulkan-1.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-debug-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\vcruntime140_1.dll',
+  ('flet_desktop\\app\\flet\\window_to_front_plugin.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140_1.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\window_to_front_plugin.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-localization-l1-2-0.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-utility-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-localization-l1-2-0.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-utility-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\api-ms-win-core-fibers-l1-1-0.dll',
+  ('flet_desktop\\app\\flet\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-fibers-l1-1-0.dll',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\d3dcompiler_47.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\d3dcompiler_47.dll',
    'BINARY'),
   ('flet_desktop\\app\\flet\\api-ms-win-core-file-l1-1-0.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-math-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\media_kit_video_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_video_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\geolocator_windows_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\geolocator_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-memory-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-localization-l1-2-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-timezone-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-2-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\audioplayers_windows_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\audioplayers_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140_1.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140_1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-file-l2-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\rive_common_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\rive_common_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\window_manager_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\window_manager_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-locale-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-file-l1-2-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\permission_handler_windows_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\permission_handler_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\flutter_windows.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\flutter_windows.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_2.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_2.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-downlevel-kernel32-l2-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-downlevel-kernel32-l2-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-datetime-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\ucrtbased.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\ucrtbased.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vccorlib140d.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vccorlib140d.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\screen_brightness_windows_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\screen_brightness_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140_1d.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140_1d.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140d.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140d.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\libc++.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libc++.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\ucrtbase.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\ucrtbase.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-process-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\flet.exe',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\flet.exe',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vk_swiftshader.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vk_swiftshader.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-time-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\libEGL.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libEGL.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vulkan-1.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vulkan-1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-eventing-provider-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-eventing-provider-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-handle-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-console-l1-2-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-console-l1-2-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\libGLESv2.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libGLESv2.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\screen_retriever_windows_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\screen_retriever_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-convert-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-console-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\media_kit_native_event_loop.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_native_event_loop.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\record_windows_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\record_windows_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\zlib.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\zlib.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-string-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_codecvt_ids.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_codecvt_ids.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\url_launcher_windows_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\url_launcher_windows_plugin.dll',
+   'BINARY'),
   ('flet_desktop\\app\\flet\\libmpv-2.dll',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\libmpv-2.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_atomic_wait.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_atomic_wait.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\concrt140.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\concrt140.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\media_kit_libs_windows_video_plugin.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\media_kit_libs_windows_video_plugin.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-heap-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\msvcp140_1.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\msvcp140_1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-fibers-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\vcruntime140.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\vcruntime140.dll',
+   'BINARY'),
+  ('flet_desktop\\app\\flet\\api-ms-win-crt-heap-l1-1-0.dll',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\api-ms-win-crt-heap-l1-1-0.dll',
    'BINARY'),
   ('python312.dll',
    'C:\\Program '
@@ -442,29 +442,33 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
    'EXTENSION'),
-  ('_queue.pyd',
+  ('_overlapped.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
    'EXTENSION'),
   ('_ssl.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
    'EXTENSION'),
-  ('pyexpat.pyd',
+  ('_queue.pyd',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
-   'EXTENSION'),
-  ('_wmi.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
    'EXTENSION'),
   ('_multiprocessing.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
    'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
   ('_asyncio.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
    'EXTENSION'),
   ('_uuid.pyd',
    'C:\\Program '
@@ -506,61 +510,57 @@
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\pymssql\\_mssql.cp312-win_amd64.pyd',
    'EXTENSION'),
-  ('_overlapped.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
-   'EXTENSION'),
-  ('VCRUNTIME140.dll',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-math-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-environment-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-stdio-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-filesystem-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-time-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-convert-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
    'BINARY'),
   ('libcrypto-3.dll',
    'C:\\Program '
@@ -590,13 +590,41 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\ucrtbase.dll',
    'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-synch-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-file-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
@@ -606,129 +634,69 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
+  ('api-ms-win-core-debug-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-namedpipe-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-errorhandling-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-console-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-sysinfo-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
    'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
+  ('api-ms-win-core-console-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\FontManifest.json',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\FontManifest.json',
-   'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
-   'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\shaders\\ink_sparkle.frag',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\shaders\\ink_sparkle.frag',
-   'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.fixwebmduration.js',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.fixwebmduration.js',
-   'DATA'),
-  ('flet_desktop\\app\\flet\\data\\app.so',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\app.so',
-   'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.bin',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.bin',
-   'DATA'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-11.0.18.10-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
   ('flet_desktop\\app\\flet\\data\\flutter_assets\\NativeAssetsManifest.json',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\NativeAssetsManifest.json',
-   'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\flutter_map\\lib\\assets\\flutter_map_logo.png',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\flutter_map\\lib\\assets\\flutter_map_logo.png',
-   'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.worklet.js',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.worklet.js',
    'DATA'),
   ('flet_desktop\\app\\flet\\data\\icudtl.dat',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\icudtl.dat',
    'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\NOTICES.Z',
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\FontManifest.json',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\NOTICES.Z',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\FontManifest.json',
    'DATA'),
   ('flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.json',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
@@ -738,13 +706,45 @@
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\wakelock_plus\\assets\\no_sleep.js',
    'DATA'),
-  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\media_kit\\assets\\web\\hls1.4.10.js',
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\NOTICES.Z',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\media_kit\\assets\\web\\hls1.4.10.js',
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\NOTICES.Z',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\flutter_map\\lib\\assets\\flutter_map_logo.png',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\flutter_map\\lib\\assets\\flutter_map_logo.png',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.worklet.js',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.worklet.js',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\shaders\\ink_sparkle.frag',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\shaders\\ink_sparkle.frag',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\app.so',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\app.so',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.bin',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\AssetManifest.bin',
    'DATA'),
   ('flet_desktop\\app\\flet\\data\\flutter_assets\\fonts\\MaterialIcons-Regular.otf',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\fonts\\MaterialIcons-Regular.otf',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.fixwebmduration.js',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\record_web\\assets\\js\\record.fixwebmduration.js',
+   'DATA'),
+  ('flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\media_kit\\assets\\web\\hls1.4.10.js',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\flet_desktop\\app\\flet\\data\\flutter_assets\\packages\\media_kit\\assets\\web\\hls1.4.10.js',
    'DATA'),
   ('certifi\\cacert.pem',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
@@ -759,73 +759,85 @@
    'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
    'ipsum.txt',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
-   'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
-   'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
    'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\INSTALLER',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\INSTALLER',
    'DATA'),
   ('websockets-15.0.1.dist-info\\WHEEL',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\WHEEL',
    'DATA'),
-  ('click-8.2.1.dist-info\\METADATA',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\METADATA',
-   'DATA'),
   ('websockets-15.0.1.dist-info\\top_level.txt',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\top_level.txt',
    'DATA'),
-  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\RECORD',
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\LICENSE.txt',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\RECORD',
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\LICENSE.txt',
    'DATA'),
-  ('websockets-15.0.1.dist-info\\METADATA',
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\REQUESTED',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\METADATA',
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('click-8.2.1.dist-info\\INSTALLER',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\INSTALLER',
    'DATA'),
   ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\METADATA',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\METADATA',
    'DATA'),
-  ('click-8.2.1.dist-info\\licenses\\LICENSE.txt',
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\INSTALLER',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\licenses\\LICENSE.txt',
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\entry_points.txt',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\LICENSE',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\LICENSE',
    'DATA'),
   ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\entry_points.txt',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\entry_points.txt',
    'DATA'),
-  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\INSTALLER',
+  ('websockets-15.0.1.dist-info\\METADATA',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\INSTALLER',
+   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\METADATA',
    'DATA'),
-  ('websockets-15.0.1.dist-info\\LICENSE',
+  ('click-8.2.1.dist-info\\WHEEL',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\LICENSE',
+   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\WHEEL',
    'DATA'),
   ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\WHEEL',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
@@ -835,33 +847,21 @@
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\RECORD',
    'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\RECORD',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\RECORD',
+   'DATA'),
+  ('click-8.2.1.dist-info\\METADATA',
+   'D:\\PROYECTS\\PYTHON\\NOTAS '
+   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\METADATA',
+   'DATA'),
   ('click-8.2.1.dist-info\\RECORD',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\RECORD',
    'DATA'),
-  ('websockets-15.0.1.dist-info\\INSTALLER',
+  ('click-8.2.1.dist-info\\licenses\\LICENSE.txt',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\INSTALLER',
-   'DATA'),
-  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\LICENSE.txt',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\LICENSE.txt',
-   'DATA'),
-  ('click-8.2.1.dist-info\\WHEEL',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\WHEEL',
-   'DATA'),
-  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\REQUESTED',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\REQUESTED',
-   'DATA'),
-  ('websockets-15.0.1.dist-info\\entry_points.txt',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\websockets-15.0.1.dist-info\\entry_points.txt',
-   'DATA'),
-  ('click-8.2.1.dist-info\\INSTALLER',
-   'D:\\PROYECTS\\PYTHON\\NOTAS '
-   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\INSTALLER',
+   'ZEUS\\venv\\Lib\\site-packages\\click-8.2.1.dist-info\\licenses\\LICENSE.txt',
    'DATA'),
   ('base_library.zip',
    'D:\\PROYECTS\\PYTHON\\NOTAS ZEUS\\build\\app\\base_library.zip',
@@ -869,7 +869,7 @@
  [],
  False,
  False,
- 1749497647,
+ 1749571280,
  [('runw.exe',
    'D:\\PROYECTS\\PYTHON\\NOTAS '
    'ZEUS\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',

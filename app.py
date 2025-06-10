@@ -45,10 +45,6 @@ def main(page: ft.Page):
     page.window_width = 900
     page.window_height = 600
     
-
-       
-        
-
     # Campos requridos por el usuario
     estudio = ft.TextField(label="Estudio")
     usuario = ft.TextField(label="Usuario")
@@ -86,7 +82,6 @@ def main(page: ft.Page):
             database = "Salud"
             username = "sa"
             password = "sh@k@1124"
-            print(server,database,username,password)
             conn = pymssql.connect(server=server, user=username, password=password, database=database)
             if conn:
                 print("conexion")
